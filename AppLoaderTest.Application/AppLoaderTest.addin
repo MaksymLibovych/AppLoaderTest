@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>AppLoaderTest</Name>
+		<Assembly>AppLoaderTest.Application/AppLoaderTest.Application.dll</Assembly>
+		<AddInId>B7050BBA-B925-40E9-9449-5F820C40A6A5</AddInId>
+		<Text>RevitSolutionTemplate Text</Text>
+		<FullClassName>AppLoaderTest.Application.ExternalApplication</FullClassName>
+		<VendorId>AppLoaderTest VendorId</VendorId>
+		<VendorDescription>AppLoaderTest VendorDescription</VendorDescription>
+	</AddIn>
+</RevitAddIns>
